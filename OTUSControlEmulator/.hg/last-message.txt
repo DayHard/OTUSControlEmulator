@@ -1,0 +1,2 @@
+Version 1.0.0.1:Alpha Build 1000 from 28.02.2017 11 00
+- ReSharper optomization
